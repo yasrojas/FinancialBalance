@@ -1,0 +1,12 @@
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\bin\Debug\net6.0\FinancialBalance.Domain.deps.json
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\bin\Debug\net6.0\FinancialBalance.Domain.dll
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\bin\Debug\net6.0\FinancialBalance.Domain.pdb
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.csproj.AssemblyReference.cache
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.AssemblyInfoInputs.cache
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.AssemblyInfo.cs
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.dll
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\refint\FinancialBalance.Domain.dll
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\FinancialBalance.Domain.pdb
+C:\Users\yas-n\source\repos\FinancialBalance.Domain\obj\Debug\net6.0\ref\FinancialBalance.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2Q3M1YN4E0KD8SG9ks1+alwVR+S56xd1BpJC+BvOPDk=",
+  "Source": "FinancialBalance.API",
+  "BasePath": "_content/FinancialBalance.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OnLW+rqQenQeVmxPEG/KyAHmSt1PK5JmNGswi/tZkDLMtFCnX162mBuEcxljeTULCGDF6j6/i0m6G/Bn/EP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yas-n\\source\\repos\\FinancialBalance.Domain\\FinancialBalance.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yas-n\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\yas-n\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
